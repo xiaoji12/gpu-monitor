@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+._*
+
+# 编译产物
+GPUMonitor
+*.o
+*.dSYM
+.build/
+
+# 临时文件
+*.tmp
+*.log
